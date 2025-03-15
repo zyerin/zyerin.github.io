@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: "Devlog" # the main title
 
-tagline: 부기부기의 블로그 # it will display as the subtitle
+tagline: 지은이 부기야 # it will display as the subtitle
 
 description: 부기부기의 블로그 # used by seo meta and the atom feed
 
